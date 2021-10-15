@@ -22,3 +22,8 @@
 ドキュメント・インテリジェンスのアプリケーションを作る上では、Pythonがもっとも適したプログラミング言語と言えるでしょう。機械学習の文脈で広く用いられるPythonですが、それ以外にも画像処理や文字列処理、ウェブアプリケーション上でのインタラクティブな可視化など、Pythonで利用できる豊富なパッケージにより開発を強力にサポートすることができます。
 
 そこで本発表では、ドキュメント・インテリジェンスの分野を俯瞰しつつ、どのドメイン領域においても共通して必要となる画像処理や自然言語処理の技術を対象に、Pythonで実現するための方法をご紹介します。
+
+## レシートの作成
+本デモで利用したレシートの作ににはreceiptlineを利用しています。
+
+[receiptline/receiptline: Printable digital receipts \- Transform markdown\-like text to receipt printer commands or SVG images\.](https://github.com/receiptline/receiptline/)
